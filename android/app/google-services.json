@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "656677726103",
+    "firebase_url": "https://flutterfirebasemassaing.firebaseio.com",
+    "project_id": "flutterfirebasemassaing",
+    "storage_bucket": "flutterfirebasemassaing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656677726103:android:94c01eb45b7479592146d2",
+        "android_client_info": {
+          "package_name": "com.srteam.firebase_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656677726103-f9tld3ivsurchgaa9gehe6u4pmslvntv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvnLdycdtHOsONTm-hsqevnYRt8XMrR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656677726103-f9tld3ivsurchgaa9gehe6u4pmslvntv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
